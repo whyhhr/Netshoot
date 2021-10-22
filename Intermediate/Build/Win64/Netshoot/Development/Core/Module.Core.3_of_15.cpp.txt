@@ -1,0 +1,208 @@
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformFile.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Async/AsyncFileHandle.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Async/MappedFileHandle.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Async/ParallelFor.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/Fork.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\CoreMinimal.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/ColorList.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/TwoVectors.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Edge.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Sphere.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/CapsuleShape.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/RangeSet.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Box.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Box2D.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/BoxSphereBounds.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/OrientedBox.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/RotationTranslationMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/RotationAboutPointMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/ScaleRotationTranslationMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/RotationMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/PerspectiveMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/OrthoMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/TranslationMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/QuatRotationTranslationMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/InverseRotationMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/ScaleMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/MirrorMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/ClipProjectionMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/InterpCurvePoint.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/InterpCurve.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/CurveEdInterface.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Float32.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Float16.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Float16Color.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Vector2DHalf.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/ConvexHull2d.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/UnrealMath.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Ray.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/ScopeRWLock.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformIoDispatcher.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformIoDispatcher.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Containers/List.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\IO/IoDispatcher.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\IO/IoContainerId.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/SecureHash.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/BufferReader.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\String/BytesToHex.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\String/HexToBytes.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/AES.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/IEngineCrypto.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/FileRegions.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\PixelFormat.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Private\IO/IoDispatcherFileBackendTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Private\IO/IoStore.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Private\IO/IoDirectoryIndex.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\IO/IoDispatcherBackend.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Private\IO/IoDispatcherFileBackend.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Private\IO/IoDispatcherPrivate.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CountersTrace.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformMallocCrash.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMallocCrash.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformMath.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/BigInt.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformMemory.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Containers/Ticker.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/MallocAnsi.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMemoryPoolStats.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/MemoryMisc.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformMisc.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformChunkInstall.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/FileManagerGeneric.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Private\Misc/VarargsHelper.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/ExceptionHandling.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\excpt.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCrashContext.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformDriver.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/LazySingleton.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/UProjectInfo.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/locid.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/bytestream.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/utypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/umachine.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/ptypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/platform.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/uconfig.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/uvernum.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/urename.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/uversion.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/utf.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/utf8.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/utf16.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/utf_old.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/utf.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/uobject.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/std_string.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cctype
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/localpointer.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_exception.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/strenum.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/unistr.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/char16ptr.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/rep.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/stringpiece.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/putil.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/uloc.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\ICU\icu4c-64_1\include\unicode/uenum.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformNamedPipe.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformNamedPipe.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformOutputDevices.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformOutputDevices.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/PlatformOutputDevices.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformOutputDevices.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceMemory.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceFile.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceDebug.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceAnsiError.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceError.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/FeedbackContextAnsi.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceConsole.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceHelper.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformProcess.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCriticalSection.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/SingleThreadEvent.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Private\Misc/EventPool.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformProperties.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformStackWalk.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformStricmp.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformString.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformSymbolication.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformSymbolication.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/ArchiveSaveCompressedProxy.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/ArchiveLoadCompressedProxy.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformTime.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericWidePlatformString.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericWidePlatformString.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/GenericPlatform/StandardPlatformString.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\GenericPlatform/StandardPlatformString.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/HAL/Allocators/CachedOSPageAllocator.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/Allocators/CachedOSPageAllocator.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/HAL/Allocators/CachedOSVeryLargePageAllocator.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/Allocators/CachedOSVeryLargePageAllocator.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/HAL/Allocators/PooledVirtualMemoryAllocator.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/Allocators/PooledVirtualMemoryAllocator.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\GenericPlatform/OSAllocationPool.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/HAL/ConsoleManager.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/ConsoleManager.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/RemoteConfigIni.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/HAL/DiskUtilizationTracker.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/DiskUtilizationTracker.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/HAL/ExceptionHandling.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/HAL/FileManagerGeneric.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/HAL/IPlatformFileLogWrapper.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/IPlatformFileLogWrapper.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/HAL/IPlatformFileManagedStorageWrapper.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/IPlatformFileManagedStorageWrapper.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/HAL/IPlatformFileOpenLogWrapper.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/IPlatformFileOpenLogWrapper.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/DataDrivenPlatformInfoRegistry.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/HAL/LowLevelMemTracker.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/LowLevelMemStats.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Private\HAL\LowLevelMemTrackerPrivate.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Private\HAL\LowLevelMemoryUtils.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\MemPro/MemProProfiler.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.inl
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/EventNode.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Field.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Atomic.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocol.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol0.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol1.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol2.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol3.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol4.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Writer.inl
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/LogScope.inl
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\LogScope.h

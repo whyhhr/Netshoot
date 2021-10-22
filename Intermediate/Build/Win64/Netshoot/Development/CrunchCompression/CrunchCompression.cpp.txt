@@ -1,0 +1,5 @@
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Development\CrunchCompression\Definitions.CrunchCompression.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CrunchCompression\Public\CrunchCompression.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Crunch\include\crn_decomp.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Crunch\include\crn_defs.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Crunch\include\crnlib.h

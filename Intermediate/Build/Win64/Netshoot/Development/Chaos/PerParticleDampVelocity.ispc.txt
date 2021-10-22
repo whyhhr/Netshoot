@@ -1,0 +1,6 @@
+F:\\UE4Source\\UnrealEngine-release\\Engine\\Source\\Runtime\\Core\\Public\\Math/Aossoa.isph
+F:\\UE4Source\\UnrealEngine-release\\Engine\\Source\\Runtime\\Core\\Public\\Math/Matrix.isph
+F:\\UE4Source\\UnrealEngine-release\\Engine\\Source\\Runtime\\Core\\Public\\Math/Soaaos.isph
+F:\\UE4Source\\UnrealEngine-release\\Engine\\Source\\Runtime\\Core\\Public\\Math/Vector.isph
+F:\\UE4Source\\UnrealEngine-release\\Engine\\Source\\Runtime\\Experimental\\ChaosCore\\Public\\Chaos/Matrix33.isph
+F:\\UE4Source\\UnrealEngine-release\\Engine\\Source\\Runtime\\Experimental\\Chaos\\Private\\Chaos\\PerParticleDampVelocity.ispc

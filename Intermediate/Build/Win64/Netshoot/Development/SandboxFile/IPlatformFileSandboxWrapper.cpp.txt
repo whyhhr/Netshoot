@@ -1,0 +1,4 @@
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Development\SandboxFile\Definitions.SandboxFile.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\SandboxFile\Public\IPlatformFileSandboxWrapper.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/IPlatformFileModule.h

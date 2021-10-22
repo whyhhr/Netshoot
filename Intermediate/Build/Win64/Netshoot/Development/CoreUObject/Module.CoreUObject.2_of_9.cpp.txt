@@ -1,0 +1,78 @@
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/CoreUObject/Private/Serialization/AsyncLoading.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Private\Serialization/AsyncLoading.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Private\Serialization/AsyncPackage.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Public\Serialization/AsyncPackageLoader.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Async/AsyncFileHandle.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Stats/StatsMisc.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreRedirects.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Public\Serialization/DeferredMessageLog.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Private\Serialization/AsyncLoadingThread.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Private\Serialization/LoadTimeTracePrivate.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/LoadTimeTrace.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Public\Misc/ExclusiveLoadPackageTimeTracker.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/LoadTimeTracker.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.inl
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/EventNode.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Field.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Atomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocol.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol0.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol1.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol2.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol3.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol4.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Writer.inl
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/LogScope.inl
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\LogScope.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedTimers.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/ExceptionHandling.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\excpt.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Private\Serialization/AsyncLoadingPrivate.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Async/TaskGraphInterfaces.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Containers/LockFreeFixedSizeAllocator.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/MemStack.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/LowLevelMemStats.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/IPlatformFileOpenLogWrapper.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/DataDrivenPlatformInfoRegistry.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Containers/Queue.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Private\UObject/GarbageCollectionInternal.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Private\UObject/GCScopeLock.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/CoreUObject/Private/Serialization/AsyncLoading2.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Public\Serialization/AsyncLoading2.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\IO/IoContainerId.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\UObject/NameBatchSerialization.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Private\UObject/UObjectArchetypeInternal.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CountersTrace.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Private\Serialization/UnversionedPropertySerialization.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Private\Serialization/Zenaphore.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Public\Serialization/BulkData.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Public\Serialization\BulkDataCommon.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Public\Serialization\BulkData2.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Public\Serialization\BulkDataBuffer.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\IO/IoDispatcher.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/IEngineCrypto.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/MemoryReader.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectClusters.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Async/Async.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Async/ParallelFor.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/Fork.h

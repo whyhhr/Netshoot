@@ -1,0 +1,13 @@
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Development\AudioAnalyzer\Definitions.AudioAnalyzer.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/AudioAnalyzer/Private/AudioAnalyzerModule.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\AudioAnalyzer\Public\AudioAnalyzerModule.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/AudioAnalyzer/Private/AudioAnalyzerNRT.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\AudioAnalyzer\Classes\AudioAnalyzerNRT.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\AudioAnalyzer\Public\IAudioAnalyzerNRTInterface.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\AudioAnalyzer\Classes\AudioAnalyzerAsset.h
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Inc\AudioAnalyzer\AudioAnalyzerAsset.generated.h
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Inc\AudioAnalyzer\AudioAnalyzerNRT.generated.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\AudioAnalyzer\Public\AudioAnalyzerNRTFacade.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/AudioAnalyzer/Private/AudioAnalyzerNRTFacade.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/AudioAnalyzer/Private/IAudioAnalyzerNRTInterface.cpp

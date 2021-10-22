@@ -1,0 +1,244 @@
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/ProfilingDebugging/MiscTrace.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.inl
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/EventNode.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Field.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Atomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocol.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol0.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol1.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol2.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol3.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol4.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Writer.inl
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/LogScope.inl
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\LogScope.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/ProfilingDebugging/PlatformFileTrace.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/PlatformFileTrace.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/ProfilingDebugging/ProfilingHelpers.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ProfilingHelpers.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/ProfilingDebugging/ScopedDebugInfo.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedDebugInfo.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/ProfilingDebugging/TraceAuxiliary.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/TraceAuxiliary.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\BuildSettings\Public\BuildSettings.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/AES.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CountersTrace.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\String/ParseTokens.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ime_cmodes.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/ProfilingDebugging/Windows/AQtimeExternalProfiler.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/ProfilingDebugging/Windows/VSPerfExternalProfiler.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/ProfilingDebugging/Windows/VTuneExternalProfiler.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Intel\VTune\VTune-2019\include\ittnotify.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/Archive.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/NameAsStringProxyArchive.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Stats/StatsMisc.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/CustomVersion.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/NetworkVersion.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatform.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\CoreMinimal.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/ColorList.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/TwoVectors.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Edge.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Sphere.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/CapsuleShape.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/RangeSet.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Box.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Box2D.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/BoxSphereBounds.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/OrientedBox.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/RotationTranslationMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/RotationAboutPointMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/ScaleRotationTranslationMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/RotationMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/PerspectiveMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/OrthoMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/TranslationMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/QuatRotationTranslationMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/InverseRotationMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/ScaleMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/MirrorMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/ClipProjectionMatrix.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/InterpCurvePoint.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/InterpCurve.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/CurveEdInterface.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Float32.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Float16.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Float16Color.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Vector2DHalf.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/ConvexHull2d.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/UnrealMath.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Math/Ray.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetDevice.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Developer\TargetPlatform\Public\Interfaces/TargetDeviceId.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/CompressedChunkInfo.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/ArchiveSerializedPropertyChain.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/ArchiveFromStructuredArchive.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/ArchiveLoadCompressedProxy.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/ArchiveLoadCompressedProxy.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/ArchiveProxy.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/ArchiveSaveCompressedProxy.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/ArchiveSaveCompressedProxy.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/BitArchive.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/BitArchive.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/BitReader.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/BitReader.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/BitWriter.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/BitWriter.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/CompressedChunkInfo.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/Csv/CsvParser.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/Csv/CsvParser.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/Csv/CsvParserTests.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/CustomVersion.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/ScopeRWLock.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/FileRegions.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/FileRegions.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\PixelFormat.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/Formatters/BinaryArchiveFormatter.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/LargeMemoryData.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryData.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/LargeMemoryReader.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/MemoryArchive.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/LargeMemoryWriter.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryWriter.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/LoadTimeTrace.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/LoadTimeTrace.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/MemoryImage.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/SecureHash.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/BufferReader.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\String/BytesToHex.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\String/HexToBytes.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/LoadTimeTracker.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedTimers.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/DataDrivenPlatformInfoRegistry.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/NameAsStringIndexProxyArchive.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/NameAsStringIndexProxyArchive.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Serialization/VarInt.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/StructuredArchive.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/StructuredArchiveFormatter.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/StructuredArchiveFromArchive.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Serialization/VarInt.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Stats/Stats2.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/SingleThreadRunnable.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Containers/Ticker.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Stats/StatsData.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Stats/StatsMallocProfilerProxy.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Stats/StatsCommand.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Templates/Greater.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/DefaultValueHelper.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Stats/StatsFile.h
+F:/UE4Source/UnrealEngine-release/Engine/Source/Runtime/Core/Private/Stats/StatsData.cpp

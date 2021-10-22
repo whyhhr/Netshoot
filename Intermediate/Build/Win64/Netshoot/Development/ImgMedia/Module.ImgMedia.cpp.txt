@@ -1,0 +1,335 @@
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Development\ImgMedia\Definitions.ImgMedia.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Media/ImgMedia/Source/ImgMedia/Private/Assets/ImgMediaMipMapInfo.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Public\ImgMediaMipMapInfo.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Media\Public\IMediaOptions.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMediaEngine\Public\ImgMediaEngine.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Private\Assets\ImgMediaMipMapInfoManager.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Private\ImgMediaPrivate.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMediaFactory\Public\ImgMediaSettings.h
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Inc\ImgMediaFactory\ImgMediaSettings.generated.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Media/ImgMedia/Source/ImgMedia/Private/Assets/ImgMediaMipMapInfoManager.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\MediaAssets\Public\MediaPlayer.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\MediaUtils\Public\MediaPlayerOptions.h
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Inc\MediaUtils\MediaPlayerOptions.generated.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Media\Public\IMediaTimeSource.h
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Inc\MediaAssets\MediaPlayer.generated.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\MediaUtils\Public\MediaPlayerFacade.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Media\Public\IMediaClockSink.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Media\Public\IMediaEventSink.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Media\Public\IMediaTickable.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\MediaUtils\Public\IMediaPlayerLifecycleManager.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\MediaUtils\Public\MediaSampleSinks.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\MediaUtils\Public\MediaSampleSink.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\MediaAssets\Public\MediaTexture.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\MediaUtils\Public\MediaSampleQueue.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Media\Public\IMediaSamples.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\MediaUtils\Public\MediaSampleSource.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Media\Public\IMediaTextureSample.h
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Inc\MediaAssets\MediaTexture.generated.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Inc\Engine\CameraActor.generated.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Inc\Engine\CameraComponent.generated.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Inc\Engine\GameEngine.generated.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\MovieScene\Public\MovieSceneCommonHelpers.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakFieldPtr.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Media/ImgMedia/Source/ImgMedia/Private/Assets/ImgMediaSource.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Public\ImgMediaSource.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\MediaAssets\Public\BaseMediaSource.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\MediaAssets\Public\MediaSource.h
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Inc\MediaAssets\MediaSource.generated.h
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Inc\MediaAssets\BaseMediaSource.generated.h
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Inc\ImgMedia\ImgMediaSource.generated.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Media/ImgMedia/Source/ImgMedia/Private/GlobalCache/ImgMediaGlobalCache.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Private\GlobalCache\ImgMediaGlobalCache.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Private\Readers\IImgMediaReader.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Media/ImgMedia/Source/ImgMedia/Private/ImgMediaModule.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Media\Public\IMediaClock.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Media\Public\IMediaModule.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Private\Player\ImgMediaPlayer.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Media\Public\IMediaCache.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Media\Public\IMediaControls.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Media\Public\IMediaPlayer.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Media\Public\IMediaTracks.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Media\Public\IMediaView.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Private\Scheduler\ImgMediaScheduler.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Private\Scheduler\IImgMediaScheduler.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Public\IImgMediaModule.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Media/ImgMedia/Source/ImgMedia/Private/Loader/ImgMediaLoader.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Private\Loader\ImgMediaLoader.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Containers/LruCache.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Private\Readers\GenericImgMediaReader.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Private\Loader\ImgMediaLoaderWork.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Private\Player\ImgMediaTextureSample.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Private\Readers\ExrImgMediaReader.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Media/ImgMedia/Source/ImgMedia/Private/Loader/ImgMediaLoaderWork.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Media/ImgMedia/Source/ImgMedia/Private/Player/ImgMediaPlayer.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Media/ImgMedia/Source/ImgMedia/Private/Readers/ExrImgMediaReader.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Private\Readers\ExrImgMediaReaderGpu.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Media\Public\IMediaTextureSampleConverter.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\OpenExrWrapper\Public\OpenExrWrapper.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Engine\Public\HardwareInfo.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Media/ImgMedia/Source/ImgMedia/Private/Readers/ExrImgMediaReaderGpu.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ExrReaderGpu\Public\ExrReaderGpu.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cstdio
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ExrReaderGpu\Public\ExrSwizzlingShader.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime/RenderCore/Public/RenderGraphResources.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RenderCore\Public\RenderGraphParameter.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RenderCore\Public\RenderGraphTextureSubresource.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.inl
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime/Renderer/Private/ScreenPass.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RenderCore\Public\CommonRenderResources.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RenderCore\Public\ShaderParameterStruct.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RenderCore\Public\RenderGraphPass.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.inl
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RenderCore\Public\RenderGraphParameters.inl
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RenderCore\Public\RenderGraphValidation.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RenderCore\Public\RenderGraphBlackboard.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/GeneratedTypeName.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.inl
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RenderCore\Public\RenderGraphUtils.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Private\PostProcess/SceneFilterRendering.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Private\PostProcess\SceneRenderTargets.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Private\PostProcess\../TranslucencyPass.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Private\PostProcess\../VT/VirtualTextureFeedback.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Public\VT/VirtualTextureFeedbackBuffer.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Public\SceneRenderTargetParameters.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Private\RenderTargetTemp.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Private\SceneRendering.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Private\ScenePrivateBase.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Public\PrimitiveSceneInfo.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Public\MeshPassProcessor.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Public\MeshMaterialShader.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Public\MaterialShader.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Public\MeshDrawShaderBindings.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Experimental/Containers/RobinHoodHashTable.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Private\DistortionRendering.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Private\HeightfieldLighting.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Private\LightShaftRendering.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Private\SkyAtmosphereRendering.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Private\MeshDrawCommands.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Public\GpuDebugRendering.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Private\PostProcess/PostProcessAmbientOcclusionMobile.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Renderer\Private\ScreenPass.inl
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime/Renderer/Private/SceneTextureParameters.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Inc\Engine\TextureRenderTarget.generated.h
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Inc\Engine\TextureRenderTarget2D.generated.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RHI\Public\GPUProfiler.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Public\D3D12RHI.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHICommon.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ime_cmodes.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\Windows/D3D12RHIBasePrivate.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\rpcnsip.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\DirectX\include\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wtypesbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\propidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\urlmon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\oleidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\servprov.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ocidl.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\DirectX\include\dxgicommon.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\DirectX\include\dxgiformat.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\DirectX\include\d3dcommon.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\DirectX\include\d3d12sdklayers.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\D3DX12\include\d3dx12.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12Util.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\Windows\WindowsD3D12DiskCache.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\Windows\WindowsD3D12PipelineState.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\Windows\../D3D12PipelineState.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12Residency.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_6.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_5.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_4.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_3.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi1_2.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\DirectX\include\dxgi.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\DirectX\include\dxgitype.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\D3DX12\include\D3DX12Residency.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12State.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12Resources.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\RHI\Public\BoundShaderStateCache.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Public\D3D12ShaderResources.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12RootSignature.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12Shader.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12View.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12CommandList.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12Texture.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12DirectCommandListManager.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12Viewport.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\../Public/D3D12ConstantBuffer.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12Query.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12TimedIntervalQuery.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12DescriptorCache.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12StateCachePrivate.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12Allocation.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12CommandContext.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\delayimp.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\PIX\include\pix3.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\PIX\include\pix3_win.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\PIX\include\PIXEventsCommon.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\PIX\include\PIXEventsGenerated.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12Stats.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12Device.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\D3D12RHI\Private\D3D12Adapter.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\ThirdParty\Windows\DirectX\include\dxgidebug.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Media/ImgMedia/Source/ImgMedia/Private/Readers/GenericImgMediaReader.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Media/ImgMedia/Source/ImgMedia/Private/Scheduler/ImgMediaScheduler.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Media\ImgMedia\Source\ImgMedia\Private\Scheduler\ImgMediaSchedulerThread.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Media/ImgMedia/Source/ImgMedia/Private/Scheduler/ImgMediaSchedulerThread.cpp

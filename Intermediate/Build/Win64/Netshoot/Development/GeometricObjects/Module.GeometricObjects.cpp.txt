@@ -1,0 +1,138 @@
+F:\UE4Source\myproject\work2\Netshoot\Intermediate\Build\Win64\Netshoot\Development\GeometricObjects\Definitions.GeometricObjects.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/CompGeom/PolygonTriangulation.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\CompGeom/PolygonTriangulation.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\VectorTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\MathUtil.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_exception.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\string
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\IndexTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\TriangleTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\VectorUtil.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Generators/DiscMeshGenerator.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Generators/DiscMeshGenerator.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Generators\MeshShapeGenerator.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Generators/FlatTriangulationMeshGenerator.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Generators/FlatTriangulationMeshGenerator.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\BoxTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\TransformTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Quaternion.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\MatrixTypes.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Generators/MarchingCubes.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Generators/MarchingCubes.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Async/ParallelFor.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/Fork.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Spatial/DenseGrid3.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/IndexUtil.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/DynamicVector.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Generators/PlanarPolygonMeshGenerator.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Generators/PlanarPolygonMeshGenerator.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Polygon2.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\SegmentTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\LineTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntrSegment2Segment2.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/Intersector1.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntersectionUtil.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntrLine2Line2.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Generators/RectangleMeshGenerator.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Generators/RectangleMeshGenerator.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Generators/SweepGenerator.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Generators/SweepGenerator.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\FrameTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\RayTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Curve/CurveUtil.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/ProgressCancel.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/GeometricObjectsModule.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\GeometricObjectsModule.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/IndexUtil.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Intersection/ContainmentQueries3.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/ContainmentQueries3.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\SphereTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\CapsuleTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\OrientedBoxTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\HalfspaceTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntersectionQueries3.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Intersection/IntersectionQueries3.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/MathUtil.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Parameterization/UVPacking.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Parameterization/UVPacking.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\MeshUtilitiesCommon\Public\DisjointSet.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Async/Future.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Async/Async.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\MeshUtilitiesCommon\Public\Allocator2D.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\MeshUtilitiesCommon\Public\MeshUtilitiesCommon.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Spatial/GeometrySet3.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Spatial/GeometrySet3.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Polyline3.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Distance/DistRay3Segment3.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Spatial/PointSetHashTable.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Spatial/PointSetHashTable.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\PointSetAdapter.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Spatial/SparseGrid3.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/GridIndexing3.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Spatial/SparseDynamicOctree3.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Spatial/SparseDynamicOctree3.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\GeometryTypes.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/SmallListSet.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/RefCountVector.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/IteratorUtil.h
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntrRay3AxisAlignedBox3.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Tests/TransformTypes.spec.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Misc/AutomationTest.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\HAL/PlatformStackWalk.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformStackWalk.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStackWalk.h
+F:\UE4Source\UnrealEngine-release\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Tests/VectorTypes.spec.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Util/ColorConstants.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/ColorConstants.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Util/RevolveUtil.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/RevolveUtil.h
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Util/SmallListSet.cpp
+F:/UE4Source/UnrealEngine-release/Engine/Plugins/Experimental/GeometryProcessing/Source/GeometricObjects/Private/Util/UniqueIndexSet.cpp
+F:\UE4Source\UnrealEngine-release\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/UniqueIndexSet.h
